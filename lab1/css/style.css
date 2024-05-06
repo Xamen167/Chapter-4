@@ -1,0 +1,30 @@
+/*
+ * Author: Matthew Gattus
+ * Date: 4/3/24
+ * File Name: style.css
+ */
+
+/* CSS Reset */
+body, header, nav, main, footer, img, h1 {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+/*Style rules for images */
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/*Style rules for header content*/
+header {
+    text-align: center;
+    font-size: 3em;
+    color: #373684;
+}
+
+header h1 {
+    font-style: italic;
+}
+
